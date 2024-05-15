@@ -2,5 +2,5 @@ from packets.consFinder import finder
 
 
 
-finder(45,ss)
+finder("salam necesen")
 
